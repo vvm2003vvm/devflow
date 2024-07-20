@@ -1,9 +1,9 @@
 {
-    root: true,
+  "root": true,
   "extends": [
     "next/core-web-vitals",
     "standard",
-    "plugin-tailwindcss/recommended",
+    "plugin:tailwindcss/recommended",
     "eslint-config-custom/base",
     "prettier"
   ]
